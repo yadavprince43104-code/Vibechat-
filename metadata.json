@@ -1,0 +1,8 @@
+{
+  "name": "Remix Mobile Chat App",
+  "description": "A clean, mobile-friendly one-to-one chat prototype with user profiles, contacts list, messaging, and chat notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
